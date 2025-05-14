@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+
+counter=1
+   while [$counter -le5]
+   do
+echo "counter:$counter"
+    ((counter++))
+
+done
