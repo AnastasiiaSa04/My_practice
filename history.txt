@@ -1,0 +1,306 @@
+    1  ssh-keygen -C sulollarianastasiia@gmail.com
+    2  ssh ec2- user@linux.itcareerhub.de 
+    3  YES
+    4  git config --global -l
+    5  git config --global user.name "Anastasiia"
+    6  git config --global user.email "sulollari.anastasiia@gmail.com
+    7  git cinfig --global -l
+    8  git config --global -l
+    9  git config --global -l
+   10  git config --global user.email "sulollari.anastasiia@gmail.com"
+   11  git config --global -l
+   12  mkdir -p 280225-wdm
+   13  ls -al
+   14  cd 280225-wdm
+   15  ls -al
+   16  echo "Test txt" >> file1.txt
+   17  echo "Test txext2" >> file2.txt
+   18  ls -al
+   19  git init
+   20  ls -al
+   21  git ststus
+   22  git status
+   23  git add .
+   24  git status
+   25  git commit -m "Inital commit"
+   26  git status
+   27  git log
+   28  cd 280225-wdm
+   29  cd 280225-wdm
+   30  cd 280225-wdm
+   31  ls -sl
+   32  echo "Text txt3" >> file3.txt
+   33  ls -al
+   34  pwd
+   35  git add .
+   36  git commit -m "probe"
+   37  ls -al
+   38  cd 280225-wdm
+   39  ls -al
+   40  cd 280225-wdm
+   41  find /opt "*txt"
+   42  find /opt -name "*txt"
+   43  find /opt/ -name "*txt"
+   44  find /opt/ -all "*txt"
+   45  find /opt/ type -f "*txt"
+   46  find /opt/ type -f "*.txt"
+   47  find /opt/ -name "*.txt"
+   48  find /opt/ type -f "*.txt"
+   49  find /opt -type f -name "*.txt"
+   50  cd /AnanstasiiaS
+   51  pwd
+   52  ls -al /280225-wdm
+   53  ssh ec2-user@linux.itcareerhub.de 
+   54  pwd
+   55  cd /280225-wdm
+   56  cd home
+   57  cd /home
+   58  cd 280225-wdm
+   59  ls al
+   60  ls -al
+   61  cd AnastasiiaS
+   62  pwd
+   63  cd /opt/280225-wdm/
+   64  ssh ec2-user@linux.itcareerhub.de
+   65  [200~ssh ec2-user@linux.itcareerhub.de ~
+   66  ssh ec-user@linux.itcareerhub.de
+   67  clear
+   68  pwd
+   69  ssh ec-2-user@linux.itcareerhub.de
+   70  clear
+   71  pwd
+   72  ssh ec2-user@linux.itcareerhub.de
+   73  ssh ec2-user@linux.itcareerhub.de
+   74  ssh ec2-user@linux.itcareerhub.de
+   75  ssh ec2-user@linux.itcareerhub.de
+   76  ssh ec2-user@linux.itcareerhub.de 
+   77  ssh ec2-user@linux.itcareerhub.de 
+   78  ssh ec2-user@linux.itcareerhub.de 
+   79  ssh ec2-user@linux.itcareerhub.de 
+   80  ssh ec2-user@linux.itcareerhub.de 
+   81  ssh ec2-user@linux.itcareerhub.de 
+   82  nano
+   83  nano file5.sh
+   84  node -v
+   85  npm -v
+   86  npm install -g sass
+   87  node -v
+   88  ssh ec2-userlinux.itcareerhub.de 
+   89  ssh ec2-user@linux.itcareerhub.de
+   90  ssh ec2-user@linux.itcareerhub.de
+   91  clear
+   92  ls -al /tmp
+   93  clear
+   94  git config --global
+   95  pwd
+   96  git config --global
+   97  git config --global -l
+   98  mkdir -p It_hub
+   99  ls -al
+  100  cd It_hub
+  101  ls -al
+  102  echo "Test txt" >> file.txt
+  103  echo "Test2 txt" >> file2.txt
+  104  echo >> file3.txt
+  105  ls -al
+  106  git init
+  107  ls -al
+  108  ls -al /280225-wdm
+  109  ls -al 280225-wdm
+  110  cd 280225-wdm
+  111  cd 280225-wdm/
+  112  pwd
+  113  git status
+  114  git add .
+  115  git status
+  116  git commit -m "Inital commit"
+  117  git status
+  118  git log
+  119  cd /280225-wdm
+  120  ls -al
+  121  git remout -v
+  122  git remote add origin git@github.com:AnastasiiaSa04/It_hub.git
+  123  git remout -v
+  124  git remote -v
+  125  git branch -M main
+  126  git push -u origin main
+  127  git remote -v
+  128  git push origin main
+  129  git remote -v
+  130  git push origin main
+  131  git remote set-url origin
+  132  git push origin main
+  133  mkdir -p git_intro
+  134  cd git_intro
+  135  ls -al
+  136  git init
+  137  git add photo.jpg
+  138  cp /Рабочий стол/Cat/Cat.jpg  ./git_intro
+  139  cp /Рабочий стол/Cat/Cat.jpg  /It_hub/git_intro
+  140  cp /Рабочий стол/Cat/Cat.jpg  It_hub/git_intro
+  141  cp Рабочий стол/Cat/Cat.jpg  It_hub/git_intro
+  142  cp Рабочий стол/Cat/Cat.jpg  It_hub/git_intro
+  143  rm git_intro
+  144  cd It_hub
+  145  exit
+  146  ls -al
+  147  cd [200~It_hub/
+  148  cd It_hub
+  149  ls -al
+  150  rm git_intro/
+  151  rw git_intro/
+  152  rm /git_intro
+  153  rm git_intro
+  154  rm -r git_intro
+  155  cd home
+  156  exit
+  157  ls -al
+  158  mkdir -p git_intro
+  159  cd git_intro
+  160  git init
+  161  cp "/c/Users/Lenovo/OneDrive/Рабочий стол/Cat/Cat.jpg" 
+  162  ls -al
+  163  cp "/c/Users/Lenovo/OneDrive/Рабочий стол/Cat/Cat.jpg" .
+  164  "C:\Users\Lenovo\OneDrive\Рабочий стол\Cat\Cat.jpg.jpeg
+  165  cp "\c\Users\Lenovo\OneDrive\Рабочий стол\Cat\Cat.jpg" .
+  166  "/c/Users/Lenovo/OneDrive/Рабочий стол/Cat/Cat.jpg" .
+  167  /c/Users/Lenovo/OneDrive/Рабочий стол/Cat/Cat.jpg .
+  168  cp "/c/Users/Lenovo/OneDrive/Рабочий стол/Cat/Cat.jpg" .
+  169  git add Cat.jpg
+  170  ls -al
+  171  cp /c/Users/Lenovo/OneDrive/Рабочий стол/Cat/Cat.jpg. .
+  172  cp "/c/Users/Lenovo/OneDrive/Рабочий стол/Cat/Cat.jpg" .
+  173  cp "/c/Users/Lenovo/OneDrive/Рабочий стол/Cat/Cat.jpg." .
+  174  ls
+  175  git add Cat.jpg.jpeg
+  176  git commit -m "Added Cat.jpg.jpeg"
+  177  git push
+  178  ls al
+  179  ls -al
+  180  rw Cat.jpg.jpeg
+  181  rm Cat.jpg.jpeg
+  182  ls -al
+  183  git remote add origin git@github.com:AnastasiiaSa04/git_intro.git
+  184  git branch -M main
+  185  git push -u origin main
+  186  rm -r git_intro
+  187  rm -r git_intro 
+  188  ls -al
+  189  git init
+  190  git add Cat.jpg.jpeg
+  191  git commit -m "Added photo"
+  192  git branch -M main
+  193  git remote add origin git@github.com:AnastasiiaSa04/git_intro.git
+  194  git push -u origin main
+  195  ls -al
+  196  git add Cat.jpg.jpeg .
+  197  exit
+  198  ls -al
+  199  ls -al It_hub
+  200  mkdir -p git_intro
+  201  cd git_intro/
+  202  ls -al
+  203  git init
+  204  git add "/c/Users/Lenovo/OneDrive/Рабочий стол/cat.jpeg"
+  205  ls -al
+  206  git add "C:\Users\Lenovo\git_intro\cat.jpeg"
+  207  ls -al
+  208  git commit -m "Added photo"
+  209  git branch -M main
+  210  git remote add origin git@github.com:AnastasiiaSa04/git_intro.git
+  211  git branch -M main
+  212  git push -u origin main
+  213  git@github.com:AnastasiiaSa04/Fork-Test.git
+  214  pwd
+  215  ls -al
+  216  mkdir -p git-branch
+  217  cd git-branch
+  218  git init
+  219  git remote add origin git@github.com:AnastasiiaSa04/git-branch.git
+  220  git checkout -b gitignore
+  221  ls -al
+  222  curl https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore -o .gitignore
+  223  git add .gitignore
+  224  git commit -m "Added .gitignore file"
+  225  git push -u origin gitignore
+  226  clear
+  227  ssh ec2-user@linux.itcareerhub.de 
+  228  ssh -T git@github.com
+  229  Host github.com
+  230    HostName github.com
+  231    User git
+  232    IdentityFile ~/.ssh/id_ed25519
+  233    IdentitiesOnly yes
+  234  git clone git@github.com:AnastasiiaSa04/Fork-Test.git
+  235  cd Fork-Test/
+  236  git checkout -b feature/add_change
+  237  git add .
+  238  echo "Practice GIT" > practice.txt
+  239  git add practice.txt
+  240  git checkout -b feature/update-readme
+  241  git add .
+  242  git commit -m "added README and file practice.txt"
+  243  git push origin feature/update-readme
+  244  git branch -a
+  245  git checkout feature/update-readme
+  246  nano Anastasiia_280225
+  247  $ git checkout -b feature/update-readme
+  248  git checkout -b feature/update-readme
+  249  [200~git add .
+  250  git commit -m "added README and file practice.txt"
+  251  git commit -m "added date and file practice.txt"
+  252  git push origin feature/update-readme
+  253  git push origin Anastasiia_280225
+  254  git push origin feature/update-readme
+  255   git checkout -b feature/update-readme
+  256  git commit -m "added date and file practice.txt"
+  257  git push origin feature/update-readme
+  258  git add .
+  259  git commit -m "added date and file practice.txt"
+  260  git push origin feature/update-readme
+  261  git pull
+  262  ls -al
+  263  git checkout -b Develop
+  264  ls -al
+  265  ssh ec2-user@linux.itcareerhub.de 
+  266  cd ..
+  267  mkdir -p linuxHomework
+  268  cd linuxHomework/
+  269  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.sh .
+  270  ls -al
+  271  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.tar.gz .
+  272  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.sh | test_tar.tar.gz .
+  273  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.sh  test_tar.tar.gz .
+  274  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/archive.tar.gz .
+  275  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.tar.gz 
+  276  ls -al
+  277  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.tar.gz /opt/280225-wdm/AnastasiiaS/tmp/TestFile/*
+  278  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.tar.gz .
+  279  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.tar.gz /opt/280225-wdm/AnastasiiaS/tmp/TestFile/ .
+  280  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test_tar.tar.gz .
+  281  ssh ec2-user@linux.itcareerhub.de 
+  282  scp ec2-user@linux.itcareerhub.de scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test.txt .
+  283  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/test.txt .
+  284  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/task_Anastasiia.tar.gz .
+  285  ssh ec2-user@linux.itcareerhub.de 
+  286  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/AnastasiiaS/premission_checker.sh .
+  287  ls -al
+  288  git clone git@github.com:AnastasiiaSa04/My_practice.git
+  289  cd My_practice/
+  290  git checkout -b feature
+  291  nano README.md
+  292  nano .gitignore
+  293  git add .
+  294  git commit -m "Added updates to README and gitignore"
+  295  git push origin feature
+  296  git commit --amend -m "Added updates README and gitignore (amend)"
+  297  git push --forse origin feature
+  298  git push --force origin feature
+  299  git checkout main
+  300  git checkout main
+  301  git branch -a
+  302  git checkout -b main origin/main
+  303  git checkout -b main
+  304  git merge feature
+  305  git push origin main
+  306  history > history.txt
